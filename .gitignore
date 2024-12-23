@@ -1,0 +1,11 @@
+# Binaries for programs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace and cache
+/bin/
+/pkg/
+/src/
